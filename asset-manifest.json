@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-hydroponics-dashboard/static/css/main.af5b6958.css",
+    "main.js": "/smart-hydroponics-dashboard/static/js/main.140426ec.js",
+    "index.html": "/smart-hydroponics-dashboard/index.html",
+    "main.af5b6958.css.map": "/smart-hydroponics-dashboard/static/css/main.af5b6958.css.map",
+    "main.140426ec.js.map": "/smart-hydroponics-dashboard/static/js/main.140426ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5b6958.css",
+    "static/js/main.140426ec.js"
+  ]
+}
